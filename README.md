@@ -352,6 +352,12 @@ LangExtract excels at extracting structured medical information from clinical te
 
 **[View Medication Examples →](https://github.com/google/langextract/blob/main/docs/examples/medication_examples.md)**
 
+### Financial Loss Extraction
+
+LangExtract can extract structured financial information from narratives, including loss amounts, affected entities, causes, and time periods. This example demonstrates extracting "lost wealth" information from financial documents and reports.
+
+**[View Financial Loss Example →](https://github.com/google/langextract/blob/main/docs/examples/financial_loss_example.md)**
+
 ### Radiology Report Structuring: RadExtract
 
 Explore RadExtract, a live interactive demo on HuggingFace Spaces that shows how LangExtract can automatically structure radiology reports. Try it directly in your browser with no setup required.
